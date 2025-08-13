@@ -17,4 +17,7 @@
 - footer.md 추가
 
 
+## SEARCH 추가
+- search.md 추가
+
 
